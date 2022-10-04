@@ -1,7 +1,8 @@
-package com.koin.testapp
+package com.koin.testapp.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.koin.testapp.R
 import com.koin.testapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
