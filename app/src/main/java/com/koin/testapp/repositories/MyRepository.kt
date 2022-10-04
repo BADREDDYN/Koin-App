@@ -1,5 +1,5 @@
 package com.koin.testapp.repositories
 
 interface MyRepository {
-    fun doSomething()
+    fun doSomething(): String
 }
