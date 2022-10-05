@@ -1,5 +1,5 @@
 # Koin-App
-Sample app to try Koin library with ViewModel.
+Sample app to try Koin with ViewModel.
 
 > Add the dependencies:
 
